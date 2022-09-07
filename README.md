@@ -4,7 +4,7 @@ hey this is ramu unnava.
 - 🌱 I’m currently learning different programming languages
 - 👯 i'm from india
 - 🤔 I love watching movies 
-- 💬 soccer is my favorite place
+- 💬 soccer is my favorite game
 - 📫 How to reach me: ramuunnava26@gmail.com
 
 <!--
